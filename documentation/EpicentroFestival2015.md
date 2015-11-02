@@ -81,6 +81,8 @@ Ask 2 different questions to WolframAlpha
 
 ### Practice
 
+Graph random number
+
 [Generate random integers between 0 and 9](http://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9)
 
 ## Twitter
