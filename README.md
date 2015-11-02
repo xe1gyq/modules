@@ -43,6 +43,22 @@ Getting Started
     Resolving deltas: 100% (245/245), done.
     Checking connectivity... done.
 
+## Credentials
+
+    [wolfram]
+    appid =
+    
+    [twitter]
+    consumer_key =
+    consumer_secret =
+    access_token =
+    access_token_secret =
+    
+    [plotly]
+    username = TheIoTLearningInitiative
+    apikey =
+    streamtoken = 
+
 ## WolframAlpha
 
     root@edison:~/modules# python core/xwolfram.py                                Mexico City Distrito Federal Mexico
