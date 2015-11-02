@@ -79,7 +79,6 @@ Getting Started
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning:
     A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain.
 
-
 ## Twitter
     
     root@edison:~/modules# python core/xtweet.py
