@@ -45,6 +45,8 @@ Getting Started
 
 ## Credentials
 
+    
+    root@edison:~/modules# mkdir configuration
     [wolfram]
     appid =
     
