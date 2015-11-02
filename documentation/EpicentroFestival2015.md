@@ -67,7 +67,7 @@ Epicentro Festival 2015
 
 ### Practice
 
-Ask 2 different questions to 
+Ask 2 different questions to WolframAlpha
 
     root@edison:~/modules/core# nano xwolfram.py
 
