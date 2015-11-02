@@ -25,6 +25,15 @@ Getting Started
     git: 'submodule' is not a git command. See 'git --help'.
     root@edison:~# cd modules
     root@edison:~# rmdir core
-    root@edison:~# 
+    root@edison:~/modules# git clone https://github.com/xe1gyq/core.git
+    Cloning into 'core'...
+    remote: Counting objects: 399, done.
+    remote: Compressing objects: 100% (18/18), done.
+    remote: Total 399 (delta 10), reused 0 (delta 0), pack-reused 381
+    Receiving objects: 100% (399/399), 42.31 KiB | 0 bytes/s, done.
+    Resolving deltas: 100% (245/245), done.
+    Checking connectivity... done.
+    
+
     
 
