@@ -92,7 +92,7 @@ Ask 2 different questions to WolframAlpha
 
 ### Practice
 
-Ask 2 different questions to WolframAlpha
+Send 1 
 
 ## Face Recognition
 
