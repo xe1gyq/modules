@@ -123,7 +123,4 @@ Get a jpeg image with one or more human faces from the internet, rename it as in
     root@edison:~# mosquitto_sub -h test.mosquitto.org -t "#" -v
 
 
-    
-
-
 
