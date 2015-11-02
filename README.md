@@ -3,6 +3,8 @@ Modules
 
 Getting Started
 
+## Internet Configuration
+
     root@edison:~# configure_edison --wifi
     root@edison:~# ifconfig
     ...
