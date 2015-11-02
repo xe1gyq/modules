@@ -101,6 +101,10 @@ Send 1 tweet mentioning @EpicentroFes with hashtag #EpicentroFest with all the n
     root@edison:~/modules/core# python xfacerecognition.py
     Found 17 faces!
 
+### Practice
+
+
+
 ## MQTT
     
     root@edison:~/modules/core# cd
