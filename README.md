@@ -23,7 +23,7 @@ Getting Started
     root@edison:~# pip install wolframalpha twython plotly
 
 ## Worshop Setup
-    
+
     root@edison:~# git clone --recursive https://github.com/xe1gyq/modules.git
     Cloning into 'modules'...
     remote: Counting objects: 43, done.
