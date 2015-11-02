@@ -103,7 +103,7 @@ Send 1 tweet mentioning @EpicentroFes with hashtag #EpicentroFest with all the n
 
 ### Practice
 
-Get a jpg image with faces from the internet, rename it as in.jpg
+Get a jpeg image with faces from the internet, rename it as in.jpeg
 
     root@edison:~/modules/core# cd output
 
