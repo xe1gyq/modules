@@ -21,6 +21,9 @@ Getting Started
     root@edison:~# opkg update
     root@edison:~# opkg install git mpg123 python-pip nano
     root@edison:~# pip install wolframalpha twython plotly
+
+## Worshop Setup
+    
     root@edison:~# git clone --recursive https://github.com/xe1gyq/modules.git
     Cloning into 'modules'...
     remote: Counting objects: 43, done.
