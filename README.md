@@ -1,7 +1,6 @@
 Epicentro
 ==
 
-Getting Started
 
 ## Internet Configuration
 
