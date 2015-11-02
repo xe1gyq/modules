@@ -16,4 +16,13 @@ Getting Started
     root@edison:~# opkg update
     root@edison:~# opkg install git
     root@edison:~# git clone --recursive https://github.com/xe1gyq/modules.git
+    Cloning into 'modules'...
+    remote: Counting objects: 43, done.
+    remote: Compressing objects: 100% (42/42), done.
+    remote: Total 43 (delta 22), reused 2 (delta 0), pack-reused 0
+    Unpacking objects: 100% (43/43), done.
+    Checking connectivity... done.
+    git: 'submodule' is not a git command. See 'git --help'.
+    
+    
 
