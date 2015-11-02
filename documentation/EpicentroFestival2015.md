@@ -92,7 +92,7 @@ Ask 2 different questions to WolframAlpha
 
 ### Practice
 
-Send 1 message with Twitter mentioning @EpicentroFes with hashtaging #EpicentroFest
+Send 1 tweet mentioning @EpicentroFes with hashtaging #EpicentroFest
 
 ## Face Recognition
 
