@@ -1,7 +1,6 @@
 Epicentro
 ==
 
-
 ## Internet Configuration
 
     root@edison:~# configure_edison --wifi
