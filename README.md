@@ -38,6 +38,9 @@ Getting Started
 ## WolframAlpha
 
     root@edison:~/modules# python core/xwolfram.py                                Mexico City Distrito Federal Mexico
+
+## Twitter
+    
     root@edison:~/modules# python core/xtweet.py
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
       InsecurePlatformWarning
