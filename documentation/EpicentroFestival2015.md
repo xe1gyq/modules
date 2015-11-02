@@ -40,6 +40,8 @@ Epicentro Festival 2015
     Receiving objects: 100% (399/399), 42.31 KiB | 0 bytes/s, done.
     Resolving deltas: 100% (245/245), done.
     Checking connectivity... done.
+    root@edison:~/modules# cd core
+    root@edison:~/modules/core# 
 
 ## Credentials
 
