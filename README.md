@@ -45,8 +45,8 @@ Getting Started
 
 ## Credentials
 
-    
     root@edison:~/modules# mkdir configuration
+    root@edison:~/modules# nano configuration/credentials.config
     [wolfram]
     appid =
     
