@@ -48,17 +48,17 @@ Getting Started
     root@edison:~/modules# mkdir configuration
     root@edison:~/modules# nano configuration/credentials.config
     [wolfram]
-    appid =
+    appid = 
     
     [twitter]
-    consumer_key =
-    consumer_secret =
-    access_token =
-    access_token_secret =
+    consumer_key = 
+    consumer_secret = 
+    access_token = 
+    access_token_secret = 
     
     [plotly]
     username = TheIoTLearningInitiative
-    apikey =
+    apikey = 
     streamtoken = 
 
 ## WolframAlpha
