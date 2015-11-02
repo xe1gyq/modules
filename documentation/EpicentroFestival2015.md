@@ -29,7 +29,6 @@ Epicentro Festival 2015
     remote: Total 43 (delta 22), reused 2 (delta 0), pack-reused 0
     Unpacking objects: 100% (43/43), done.
     Checking connectivity... done.
-    git: 'submodule' is not a git command. See 'git --help'.
     root@edison:~# cd modules
     root@edison:~# rmdir core
     root@edison:~/modules# git clone https://github.com/xe1gyq/core.git
