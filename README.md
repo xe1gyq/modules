@@ -25,6 +25,6 @@ Getting Started
     git: 'submodule' is not a git command. See 'git --help'.
     root@edison:~# cd modules
     root@edison:~# rmdir core
-    
+    root@edison:~# 
     
 
