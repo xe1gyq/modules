@@ -61,8 +61,9 @@ Getting Started
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning:
     A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain.
 
-
-
+## MQTT
+    
+    root@edison:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t theiotlearninginitiative/workshop
 
     
 
