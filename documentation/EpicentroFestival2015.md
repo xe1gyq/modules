@@ -95,6 +95,7 @@ Ask 2 different questions to WolframAlpha
 ## Face Recognition
 
     root@edison:~/modules/core# python xfacerecognition.py
+    Found 17 faces!
 
 ## MQTT
     
