@@ -1,4 +1,4 @@
-Epicentro
+Epicentro Festival 2015
 ==
 
 ## Internet Configuration
