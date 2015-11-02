@@ -35,7 +35,11 @@ Getting Started
     Resolving deltas: 100% (245/245), done.
     Checking connectivity... done.
     root@edison:~/modules# python core/xwolfram.py                                Mexico City Distrito Federal Mexico
+    root@edison:~/modules# python core/xtweet.py
+    /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
+      InsecurePlatformWarning
     root@edison:~/modules# 
+
 
     
 
