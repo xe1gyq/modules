@@ -65,6 +65,8 @@ Getting Started
     
     root@edison:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t theiotlearninginitiative/workshop
     root@edison:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t theiotlearninginitiative/workshop "Hello Mqtt!"
+    root@edison:~# mosquitto_sub -h test.mosquitto.org -t "#" -v
+
     
 
     
