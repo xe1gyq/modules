@@ -45,8 +45,7 @@ Epicentro Festival 2015
 
 ## Credentials
 
-    root@edison:~/modules/core# mkdir configuration
-    root@edison:~/modules# nano configuration/credentials.config
+    root@edison:~/modules/core# nano configuration/credentials.config
     [wolfram]
     appid = 
     
