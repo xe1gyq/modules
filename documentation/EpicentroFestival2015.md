@@ -82,7 +82,7 @@ Epicentro Festival 2015
 
 ## Twitter
     
-    root@edison:~/modules/core# python core/xtweet.py
+    root@edison:~/modules/core# python xtweet.py
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
       InsecurePlatformWarning
     root@edison:~/modules# nano core/xtweet.py
