@@ -110,7 +110,7 @@ Get a jpeg image with one or more human faces from the internet, rename it as in
 
 ### Practice
 
-Graph a number between 1 and 99
+Continously graph a random number between 1 and 99
 
 [Generate random integers between 0 and 9](http://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9)
 
