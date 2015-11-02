@@ -111,7 +111,7 @@ Get a jpeg image with faces from the internet, rename it as in.jpeg
     root@edison:~/modules/core/output# wget <jpeg image url>
     root@edison:~/modules/core/output# ls
     in.jpeg   out.jpeg   imagename.jpeg
-    root@edison:~/modules/core/output# mv <jpeg image name> 
+    root@edison:~/modules/core/output# mv <jpeg image name> in.jpeg
     
 
 ## MQTT
