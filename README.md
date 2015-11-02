@@ -23,6 +23,8 @@ Getting Started
     Unpacking objects: 100% (43/43), done.
     Checking connectivity... done.
     git: 'submodule' is not a git command. See 'git --help'.
-    root@edison:~# cd core
+    root@edison:~# cd modules
+    root@edison:~# rmdir core
+    
     
 
