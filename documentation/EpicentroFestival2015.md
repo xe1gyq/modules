@@ -71,7 +71,7 @@ Epicentro Festival 2015
 
 ## Plot.Ly
 
-    root@edison:~/modules# python core/xplotly.py 
+    root@edison:~/modules# python core/xplotly.py
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
       InsecurePlatformWarning
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning:
