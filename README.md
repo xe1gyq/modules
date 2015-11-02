@@ -34,6 +34,9 @@ Getting Started
     Receiving objects: 100% (399/399), 42.31 KiB | 0 bytes/s, done.
     Resolving deltas: 100% (245/245), done.
     Checking connectivity... done.
+
+## WolframAlpha
+
     root@edison:~/modules# python core/xwolfram.py                                Mexico City Distrito Federal Mexico
     root@edison:~/modules# python core/xtweet.py
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
