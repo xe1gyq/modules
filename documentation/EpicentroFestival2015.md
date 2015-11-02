@@ -74,6 +74,10 @@ Epicentro Festival 2015
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning:
     A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain.
 
+Practice
+
+[Use a Random Number](http://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9)
+
 ## Twitter
     
     root@edison:~/modules/core# python xtweet.py
