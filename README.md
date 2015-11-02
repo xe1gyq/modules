@@ -3,5 +3,5 @@ Modules
 
 Getting Started
 
-    git clone --recursive https://github.com/xe1gyq/modules.git
+    # git clone --recursive https://github.com/xe1gyq/modules.git
 
