@@ -81,7 +81,7 @@ Epicentro Festival 2015
 
 ### Practice
 
-[Use a Random Number](http://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9)
+[Generate random integers between 0 and 9](http://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9)
 
 ## Twitter
     
