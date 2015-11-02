@@ -107,7 +107,7 @@ Get a jpeg image with faces from the internet, rename it as in.jpeg
 
     root@edison:~/modules/core# cd output
     root@edison:~/modules/core/output# ls
-    
+    in.jpeg   out.jpeg
     root@edison:~/modules/core/output# wget <jpeg image url>
     root@edison:~/modules/core/output# mv <jpeg image name> 
     
