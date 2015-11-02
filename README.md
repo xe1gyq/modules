@@ -14,7 +14,7 @@ Getting Started
     src/gz edison http://repo.opkg.net/edison/repo/edison
     src/gz core2-32 http://repo.opkg.net/edison/repo/core2-32
     root@edison:~# opkg update
-    root@edison:~# opkg install git mpg123 python-pip
+    root@edison:~# opkg install git mpg123 python-pip nano
     root@edison:~# pip install wolframalpha
     root@edison:~# git clone --recursive https://github.com/xe1gyq/modules.git
     Cloning into 'modules'...
