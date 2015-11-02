@@ -103,7 +103,7 @@ Send 1 tweet mentioning @EpicentroFes with hashtag #EpicentroFest with all the n
 
 ### Practice
 
-
+    root@edison:~/modules/core# 
 
 ## MQTT
     
