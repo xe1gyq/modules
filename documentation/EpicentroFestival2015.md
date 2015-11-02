@@ -90,6 +90,8 @@ Ask 2 different questions to WolframAlpha
       InsecurePlatformWarning
     root@edison:~/modules/core# nano xtweet.py
 
+Ask 2 different questions to WolframAlpha
+
 ## MQTT
     
     root@edison:~/modules/core# cd
