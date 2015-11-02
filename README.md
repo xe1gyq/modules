@@ -19,8 +19,8 @@ Getting Started
     src/gz edison http://repo.opkg.net/edison/repo/edison
     src/gz core2-32 http://repo.opkg.net/edison/repo/core2-32
     root@edison:~# opkg update
-    root@edison:~# opkg install git mpg123 python-pip nano paho
-    root@edison:~# pip install wolframalpha twython plotly
+    root@edison:~# opkg install git mpg123 python-pip nano
+    root@edison:~# pip install wolframalpha twython plotly paho
 
 ## Workshop Setup
 
