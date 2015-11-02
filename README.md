@@ -61,6 +61,12 @@ Getting Started
     apikey = 
     streamtoken = 
 
+## MQTT
+    
+    root@edison:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t theiotlearninginitiative/workshop
+    root@edison:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t theiotlearninginitiative/workshop "Hello Mqtt!"
+    root@edison:~# mosquitto_sub -h test.mosquitto.org -t "#" -v
+
 ## WolframAlpha
 
     root@edison:~/modules# python core/xwolfram.py                                Mexico City Distrito Federal Mexico
@@ -80,11 +86,6 @@ Getting Started
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
       InsecurePlatformWarning
 
-## MQTT
-    
-    root@edison:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t theiotlearninginitiative/workshop
-    root@edison:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t theiotlearninginitiative/workshop "Hello Mqtt!"
-    root@edison:~# mosquitto_sub -h test.mosquitto.org -t "#" -v
 
     
 
