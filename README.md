@@ -22,7 +22,7 @@ Getting Started
     root@edison:~# opkg install git mpg123 python-pip nano
     root@edison:~# pip install wolframalpha twython plotly
 
-## Worshop Setup
+## Workshop Setup
 
     root@edison:~# git clone --recursive https://github.com/xe1gyq/modules.git
     Cloning into 'modules'...
