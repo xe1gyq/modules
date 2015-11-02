@@ -94,6 +94,8 @@ Ask 2 different questions to WolframAlpha
 
 ## Face Recognition
 
+    root@edison:~/modules/core# python xfacerecognition.py
+
 ## MQTT
     
     root@edison:~/modules/core# cd
