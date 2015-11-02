@@ -92,7 +92,7 @@ Ask 2 different questions to WolframAlpha
 
 Ask 2 different questions to WolframAlpha
 
-## Face Recogntion
+## Face Recognition
 
 ## MQTT
     
