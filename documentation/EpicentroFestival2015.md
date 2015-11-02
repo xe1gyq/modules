@@ -62,7 +62,7 @@ Epicentro Festival 2015
 
 ## WolframAlpha
 
-    root@edison:~/module/core# python xwolfram.py
+    root@edison:~/modules/core# python xwolfram.py
     Mexico City Distrito Federal Mexico
     root@edison:~/modules/core# nano xwolfram.py
 
