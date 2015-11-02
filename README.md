@@ -34,6 +34,9 @@ Getting Started
     Receiving objects: 100% (399/399), 42.31 KiB | 0 bytes/s, done.
     Resolving deltas: 100% (245/245), done.
     Checking connectivity... done.
+    root@edison:~/modules# python core/xwolfram.py                                Mexico City Distrito Federal Mexico
+    root@edison:~/modules# 
+
     
 
     
