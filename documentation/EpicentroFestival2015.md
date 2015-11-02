@@ -106,7 +106,11 @@ Send 1 tweet mentioning @EpicentroFes with hashtag #EpicentroFest with all the n
 Get a jpeg image with faces from the internet, rename it as in.jpeg
 
     root@edison:~/modules/core# cd output
+    root@edison:~/modules/core/output# ls
+    
     root@edison:~/modules/core/output# wget <jpeg image url>
+    root@edison:~/modules/core/output# mv <jpeg image name> 
+    
 
 ## MQTT
     
