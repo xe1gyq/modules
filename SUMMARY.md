@@ -1,4 +1,4 @@
 # Summary
 
-* [Epicentro](documentation/Epicentro.md)
+* [Epicentro Festival 2015](documentation/EpicentroFestival2015.md)
 
