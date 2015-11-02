@@ -80,7 +80,7 @@ Ask 2 different questions to WolframAlpha
 
 ### Practice
 
-Graph random numbers
+Graph a number between 1 and 99
 
 [Generate random integers between 0 and 9](http://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9)
 
