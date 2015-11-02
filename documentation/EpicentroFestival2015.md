@@ -22,7 +22,7 @@ Epicentro Festival 2015
 
 ## Workshop Setup
 
-    root@edison:~# git clone --recursive https://github.com/xe1gyq/modules.git
+    root@edison:~# git clone https://github.com/xe1gyq/modules.git
     Cloning into 'modules'...
     remote: Counting objects: 43, done.
     remote: Compressing objects: 100% (42/42), done.
