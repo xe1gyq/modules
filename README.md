@@ -65,12 +65,6 @@ Getting Started
 
     root@edison:~/modules# python core/xwolfram.py                                Mexico City Distrito Federal Mexico
 
-## Twitter
-    
-    root@edison:~/modules# python core/xtweet.py
-    /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
-      InsecurePlatformWarning
-
 ## Plot.Ly
 
     root@edison:~/modules# python core/xplotly.py 
@@ -78,6 +72,13 @@ Getting Started
       InsecurePlatformWarning
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning:
     A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain.
+
+
+## Twitter
+    
+    root@edison:~/modules# python core/xtweet.py
+    /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
+      InsecurePlatformWarning
 
 ## MQTT
     
