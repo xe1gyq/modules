@@ -110,7 +110,7 @@ Get a jpeg image with one or more human faces from the internet, rename it as in
     in.jpeg   out.jpeg
     root@edison:~/modules/core/output# wget <jpeg image url>
     root@edison:~/modules/core/output# ls
-    in.jpeg   out.jpeg   imagename.jpeg
+    in.jpeg   out.jpeg   imagename.weirdname
     root@edison:~/modules/core/output# mv <jpeg image name> in.jpeg
     root@edison:~/modules/core/output# cd ..
     root@edison:~/modules/core# python xfacerecognition.py
