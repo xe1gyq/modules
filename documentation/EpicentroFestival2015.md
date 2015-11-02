@@ -68,13 +68,13 @@ Epicentro Festival 2015
 
 ## WolframAlpha
 
-    root@edison:~/modules# python core/xwolfram.py
+    root@edison:~/module/cores# python core/xwolfram.py
     Mexico City Distrito Federal Mexico
-    root@edison:~/modules# nano core/xwolfram.py
+    root@edison:~/modules/core# nano core/xwolfram.py
 
 ## Plot.Ly
 
-    root@edison:~/modules# python core/xplotly.py
+    root@edison:~/modules/core# python core/xplotly.py
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
       InsecurePlatformWarning
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning:
@@ -82,7 +82,7 @@ Epicentro Festival 2015
 
 ## Twitter
     
-    root@edison:~/modules# python core/xtweet.py
+    root@edison:~/modules/core# python core/xtweet.py
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
       InsecurePlatformWarning
     root@edison:~/modules# nano core/xtweet.py
