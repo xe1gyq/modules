@@ -24,10 +24,11 @@ Epicentro Festival 2015
 
     root@edison:~# git clone https://github.com/xe1gyq/modules.git
     Cloning into 'modules'...
-    remote: Counting objects: 43, done.
-    remote: Compressing objects: 100% (42/42), done.
-    remote: Total 43 (delta 22), reused 2 (delta 0), pack-reused 0
-    Unpacking objects: 100% (43/43), done.
+    remote: Counting objects: 495, done.
+    remote: Compressing objects: 100% (50/50), done.
+    remote: Total 495 (delta 24), reused 0 (delta 0), pack-reused 445
+    Receiving objects: 100% (495/495), 45.89 KiB | 0 bytes/s, done.
+    Resolving deltas: 100% (265/265), done.
     Checking connectivity... done.
     root@edison:~# cd modules
     root@edison:~/modules# git clone https://github.com/xe1gyq/core.git
