@@ -92,7 +92,7 @@ Ask 2 different questions to WolframAlpha
 
 ### Practice
 
-Send 1 
+Send 1 message to Twitter including @EpicentroFes
 
 ## Face Recognition
 
