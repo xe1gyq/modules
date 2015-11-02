@@ -70,20 +70,6 @@ Ask 2 different questions to WolframAlpha
 
     root@edison:~/modules/core# nano xwolfram.py
 
-## Plot.Ly
-
-    root@edison:~/modules/core# python xplotly.py
-    /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
-      InsecurePlatformWarning
-    /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning:
-    A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain.
-
-### Practice
-
-Graph a number between 1 and 99
-
-[Generate random integers between 0 and 9](http://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9)
-
 ## Twitter
     
     root@edison:~/modules/core# python xtweet.py
@@ -113,6 +99,20 @@ Get a jpeg image with one or more human faces from the internet, rename it as in
     root@edison:~/modules/core/output# mv imagename.weirdname in.jpeg
     root@edison:~/modules/core/output# cd ..
     root@edison:~/modules/core# python xfacerecognition.py
+
+## Plot.Ly
+
+    root@edison:~/modules/core# python xplotly.py
+    /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
+      InsecurePlatformWarning
+    /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning:
+    A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain.
+
+### Practice
+
+Graph a number between 1 and 99
+
+[Generate random integers between 0 and 9](http://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9)
 
 ## MQTT
     
