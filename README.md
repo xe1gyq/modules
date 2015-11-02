@@ -39,6 +39,13 @@ Getting Started
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
       InsecurePlatformWarning
     root@edison:~/modules# 
+    root@edison:~/modules# python core/xplotly.py 
+    /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
+      InsecurePlatformWarning
+    /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning:
+    A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain.
+
+
 
 
     
