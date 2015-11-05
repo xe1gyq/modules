@@ -10,7 +10,7 @@ Epicentro Festival 2015
 
 Please...
 
-- No Food or Drinks while you are working with the board
+- No Food or Drinks while you are working with the Intel Edison
 - Edison + Arduino Breakout Board on top of anti-static bag
 
 ## Logging In
