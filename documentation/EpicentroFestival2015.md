@@ -3,7 +3,7 @@ Epicentro Festival 2015
 
 ## Requirements
 
-- Laptop (Windows/Linux)
+- Laptop (Windows or Linux)
 - USB
 
 ## Initial Considerations
