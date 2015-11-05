@@ -46,7 +46,7 @@ Version 1.7
     src/gz edison http://repo.opkg.net/edison/repo/edison
     src/gz core2-32 http://repo.opkg.net/edison/repo/core2-32
     root@edison:~# opkg update
-    root@edison:~# opkg install nano git mpg123 python-pip python-opencv fswebcam
+    root@edison:~# opkg install nano git mpg123 python-pip python-opencv
     root@edison:~# pip install wolframalpha twython plotly paho-mqtt
 
 ## Workshop Setup
