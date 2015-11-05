@@ -1,7 +1,9 @@
 Epicentro Festival 2015
 ==
 
-## 
+## Initial Considerations
+
+Edison + Arduino Breakout Board on top of antistatic bag
 
 ## Internet Configuration
 
