@@ -123,6 +123,8 @@ Send 1 tweet mentioning @EpicentroFes + hashtag #EpicentroFest + the names of te
     root@edison:~/modules/core# python xfacerecognition.py
     Found 17 faces!
 
+[xFaceRecognition](https://github.com/xe1gyq/core/blob/master/xfacerecognition.py)
+
 ### Practice
 
 Get a jpeg image with one or more human faces from the internet, rename it as in.jpeg and run face recognition script
