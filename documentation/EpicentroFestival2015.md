@@ -116,7 +116,7 @@ Ask 2 different questions to WolframAlpha
 
 ### Practice
 
-Send 1 tweet mentioning @EpicentroFes with hashtag #EpicentroFest with all the names of team members
+Send 1 tweet mentioning @EpicentroFes + hashtag #EpicentroFest + the names of team members
 
 ## Face Recognition
 
