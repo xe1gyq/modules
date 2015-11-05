@@ -7,7 +7,7 @@ Epicentro Festival 2015
 - Edison + Arduino Breakout Board on top of anti-static bag
 
 
-## Loging
+## Logging In
 
     Poky (Yocto Project Reference Distro) 1.6 edison ttyMFD2
     edison login: root
