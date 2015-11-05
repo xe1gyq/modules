@@ -123,7 +123,7 @@ Send 1 tweet mentioning @EpicentroFes + hashtag #EpicentroFest + the names of te
     root@edison:~/modules/core# python xfacerecognition.py
     Found 17 faces!
 
-[xFaceRecognition](https://github.com/xe1gyq/core/blob/master/xfacerecognition.py)
+[Code xFaceRecognition](https://github.com/xe1gyq/core/blob/master/xfacerecognition.py)
 
 ### Practice
 
