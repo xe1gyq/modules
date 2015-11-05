@@ -15,7 +15,7 @@ Please...
 
 ## Introduction Core
 
-https://xe1gyq.gitbooks.io/core/content/
+- [Core Gitbook](https://xe1gyq.gitbooks.io/core/content/)
 
 ## Logging In
 
