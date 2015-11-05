@@ -97,7 +97,7 @@ Version 1.7
     root@edison:~/modules/core# python xwolfram.py
     Mexico City Distrito Federal Mexico
 
-[xwolfram]()
+[xwolfram](https://github.com/xe1gyq/core/blob/master/xwolfram.py)
 
 ### Practice
 
