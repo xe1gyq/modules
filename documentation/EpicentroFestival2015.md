@@ -3,6 +3,8 @@ Epicentro Festival 2015
 
 ## Initial Considerations
 
+Please...
+
 - No Food or Drinks while you are working with the board
 - Edison + Arduino Breakout Board on top of anti-static bag
 
