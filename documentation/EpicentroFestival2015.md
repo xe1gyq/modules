@@ -15,10 +15,19 @@ Please...
 
 ## Logging In
 
+Version 1.6
+
     Poky (Yocto Project Reference Distro) 1.6 edison ttyMFD2
     ...
     edison login: root
     root@edison:~# 
+
+
+    Poky (Yocto Project Reference Distro) 1.7.2 edison ttyMFD2
+    ...
+    edison login: root
+    root@edison:~#
+
 
 ## Internet Configuration
 
