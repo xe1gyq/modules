@@ -10,7 +10,7 @@ Epicentro Festival 2015
 ## Logging In
 
     Poky (Yocto Project Reference Distro) 1.6 edison ttyMFD2
-    
+    ...
     edison login: root
     root@edison:~# 
 
