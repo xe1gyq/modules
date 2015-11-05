@@ -1,6 +1,11 @@
 Epicentro Festival 2015
 ==
 
+## Requirements
+
+- Laptop
+- USB
+
 ## Initial Considerations
 
 Please...
