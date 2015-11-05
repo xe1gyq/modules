@@ -7,6 +7,13 @@ Epicentro Festival 2015
 - Edison + Arduino Breakout Board on top of anti-static bag
 
 
+## Loging
+
+    Poky (Yocto Project Reference Distro) 1.6 edison ttyMFD2
+    edison login: root
+    [  166.168709] systemd-fsck[247]: /dev/mmcblk0p10: clean, 13/152608 files, 26868/610299 blocks
+    root@edison:~# 
+
 
 ## Internet Configuration
 
