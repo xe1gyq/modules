@@ -97,7 +97,7 @@ Version 1.7
     root@edison:~/modules/core# python xwolfram.py
     Mexico City Distrito Federal Mexico
 
-[xWolfram code](https://github.com/xe1gyq/core/blob/master/xwolfram.py)
+[Code xWolfram](https://github.com/xe1gyq/core/blob/master/xwolfram.py)
 
 ### Practice
 
@@ -112,7 +112,7 @@ Ask 2 different questions to WolframAlpha
       InsecurePlatformWarning
     root@edison:~/modules/core# nano xtweet.py
 
-[xtweet code](https://github.com/xe1gyq/core/blob/master/xtweet.py)
+[Code xtweet](https://github.com/xe1gyq/core/blob/master/xtweet.py)
 
 ### Practice
 
