@@ -3,7 +3,8 @@ Epicentro Festival 2015
 
 ## Initial Considerations
 
-Edison + Arduino Breakout Board on top of antistatic bag
+Edison + Arduino Breakout Board on top of anti-static bag
+
 
 ## Internet Configuration
 
