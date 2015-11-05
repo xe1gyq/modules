@@ -8,7 +8,6 @@ Please...
 - No Food or Drinks while you are working with the board
 - Edison + Arduino Breakout Board on top of anti-static bag
 
-
 ## Logging In
 
     Poky (Yocto Project Reference Distro) 1.6 edison ttyMFD2
