@@ -76,6 +76,8 @@ Version 1.7
     Checking connectivity... done.
     root@edison:~/modules# cd core
     root@edison:~/modules/core# 
+    
+    git clone https://github.com/xe1gyq/modules.git && cd modules && git clone https://github.com/xe1gyq/core.git && cd core
 
 ## Credentials
 
