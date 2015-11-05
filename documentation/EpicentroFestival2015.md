@@ -1,7 +1,7 @@
 Epicentro Festival 2015
 ==
 
-## Requirements
+## Pre-Requirements
 
 - Laptop (Windows or Linux)
 - USB Memory Stick
