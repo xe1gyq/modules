@@ -112,6 +112,8 @@ Ask 2 different questions to WolframAlpha
       InsecurePlatformWarning
     root@edison:~/modules/core# nano xtweet.py
 
+[xtweet code](https://github.com/xe1gyq/core/blob/master/xtweet.py)
+
 ### Practice
 
 Send 1 tweet mentioning @EpicentroFes with hashtag #EpicentroFest with all the names of team members
