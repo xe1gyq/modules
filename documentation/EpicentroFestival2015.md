@@ -13,7 +13,7 @@ Please...
 - No Food or Drinks while you are working with the Intel Edison
 - Edison + Arduino Breakout Board on top of anti-static bag
 
-## Core
+## Core Repository
 
 - [Core Gitbook](https://xe1gyq.gitbooks.io/core/content/)
 
