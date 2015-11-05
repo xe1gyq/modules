@@ -52,8 +52,6 @@ Version 1.7
     root@edison:~# opkg update
     root@edison:~# opkg install nano git mpg123 python-pip python-opencv
     root@edison:~# pip install wolframalpha twython plotly paho-mqtt
-    root@edison:~# opkg update && opkg install nano git mpg123 python-pip python-opencv && pip install wolframalpha twython plotly paho-mqtt
-    
 
 ## Workshop Setup
 
@@ -76,8 +74,6 @@ Version 1.7
     Checking connectivity... done.
     root@edison:~/modules# cd core
     root@edison:~/modules/core# 
-    
-    git clone https://github.com/xe1gyq/modules.git && cd modules && git clone https://github.com/xe1gyq/core.git && cd core
 
 ## Credentials
 
