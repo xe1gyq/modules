@@ -22,6 +22,7 @@ Version 1.6
     edison login: root
     root@edison:~# 
 
+Version 1.7
 
     Poky (Yocto Project Reference Distro) 1.7.2 edison ttyMFD2
     ...
