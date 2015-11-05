@@ -147,6 +147,8 @@ Get a jpeg image with one or more human faces from the internet, rename it as in
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning:
     A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain.
 
+[Code xPlotly](https://github.com/xe1gyq/core/blob/master/xplotly.py)
+
 ### Practice
 
 Continously graph a random number between 0 and 99
