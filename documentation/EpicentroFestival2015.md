@@ -1,6 +1,8 @@
 Epicentro Festival 2015
 ==
 
+## 
+
 ## Internet Configuration
 
     root@edison:~# configure_edison --wifi
