@@ -161,7 +161,7 @@ Get a jpeg image with one or more human faces from the internet, rename it as in
     root@edison:~/modules/core/output# mv imagename.weirdname in.jpeg
     root@edison:~/modules/core/output# cd ..
     root@edison:~/modules/core# python xfacerecognition.py
-    root@edison:~/modules/core# 
+    root@edison:~/modules/core# cp /usr/lib/edison_config_tools/public
 
 ## Plot.Ly
 
