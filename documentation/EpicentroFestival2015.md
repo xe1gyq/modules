@@ -147,6 +147,11 @@ Run xtweet.py script
 
 Modify the code to send 1 tweet mentioning @EpicentroFes + hashtag #EpicentroFest + the names of team members
 
+    root@edison:~/modules/core# nano xwolfram.py
+       <Modify Code>
+      <CTRL-X to Save>
+    root@edison:~/modules/core# python xwolfram.py
+
 ## Face Recognition
 
 Run xfacerecognition.py script
