@@ -115,6 +115,8 @@ Version 1.7
 
 ## WolframAlpha
 
+In your browser go to www.wolframalpha.com and find out about this site
+
     root@edison:~/modules/core# python xwolfram.py
     Mexico City Distrito Federal Mexico
 
