@@ -26,6 +26,7 @@ Once installed check in Device Manager, under **Ports (COM & LPT)** which port y
 
 - "Virtual USB Port" (COMxx)
 - USB Serial Port (COMxx)
+- Virtual Com Port (COMxx)
 
 ### Linux Based
 
