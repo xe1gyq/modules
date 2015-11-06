@@ -149,7 +149,7 @@ Send 1 tweet mentioning @EpicentroFes + hashtag #EpicentroFest + the names of te
 
 ### Practice
 
-Download a jpeg image with one or more human faces from the internet to your in the Intel Edison, rename it as in.jpeg and run face recognition script
+Download a jpeg image with one or more human faces from the internet to your Intel Edison, rename it as in.jpeg and run face recognition script
 
     root@edison:~/modules/core# cd output
     root@edison:~/modules/core/output# ls
