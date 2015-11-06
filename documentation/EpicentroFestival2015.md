@@ -97,7 +97,6 @@ Version 1.7
     output                 xplotly.py
     root@edison:~/modules/core#
 
-
 ## Credentials
 
     root@edison:~/modules/core# nano configuration/credentials.config
