@@ -65,6 +65,15 @@ Version 1.7
     wlan0     Link encap:Ethernet  HWaddr 78:4b:87:a7:e0:19  
           inet addr:192.168.1.70  Bcast:192.168.1.255  Mask:255.255.255.0
     ...
+    root@edison:~# ping -c 2 google.com
+    PING google.com (74.125.28.100): 56 data bytes
+    64 bytes from 74.125.28.100: seq=0 ttl=41 time=99.709 ms
+    64 bytes from 74.125.28.100: seq=1 ttl=41 time=113.055 ms
+
+    --- google.com ping statistics ---
+    2 packets transmitted, 2 packets received, 0% packet loss
+    round-trip min/avg/max = 99.709/106.382/113.055 ms
+
 
 ## Package Setup
 
