@@ -15,7 +15,7 @@ Please...
 
 ## Host Setup
 
-- https://software.intel.com/en-us/iot/hardware/edison/downloads
+- [Windows Driver](https://software.intel.com/en-us/iot/hardware/edison/downloads)
 
 ## Core Code Repository
 
