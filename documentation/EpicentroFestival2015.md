@@ -145,6 +145,7 @@ Run xtweet.py script
     root@edison:~/modules/core# python xtweet.py
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
       InsecurePlatformWarning
+    root@edison:~/modules/core# 
 
 [Code xtweet](https://github.com/xe1gyq/core/blob/master/xtweet.py)
 
