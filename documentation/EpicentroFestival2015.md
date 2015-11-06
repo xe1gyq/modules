@@ -203,7 +203,7 @@ Modify the code to graph a random number between 0 and 99
     root@edison:~/modules/core# nano xplotly.py
        <Modify Code>
       <CTRL-X to Save>
-    root@edison:~/modules/core# python xtweet.py
+    root@edison:~/modules/core# python xplotly.py
 
 [Generate random integers between 0 and 9](http://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9)
 
