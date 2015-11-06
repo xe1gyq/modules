@@ -15,7 +15,7 @@ Please...
 
 ## Host Setup
 
-- Do not connect your Itenl Edison yet
+- Do not connect your Intel Edison yet
 
 ### Windows Based
 
