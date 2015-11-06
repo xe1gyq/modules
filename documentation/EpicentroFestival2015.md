@@ -134,7 +134,7 @@ Now modify the code to ask a different question to WolframAlpha
 
 ## Twitter
 
-Run xtweet script
+Run xtweet.py script
 
     root@edison:~/modules/core# python xtweet.py
     /usr/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext o.
