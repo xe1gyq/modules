@@ -26,9 +26,7 @@ Install in your Windows host, the Standalone Driver v1.2.1
 
 Nnce installed, connect your Intel Edison using both USB cables, check in Device Manager, under **Ports (COM & LPT)** which port your Edison has been assigned with the label
 
-- Virtual USB Port (COMxx)
 - USB Serial Port (COMxx)
-- Virtual Com Port (COMxx)
 
 ### Linux Based
 
