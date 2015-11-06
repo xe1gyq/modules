@@ -145,9 +145,11 @@ Run xtweet.py script
 
 ### Practice
 
-Send 1 tweet mentioning @EpicentroFes + hashtag #EpicentroFest + the names of team members
+Modify the code to send 1 tweet mentioning @EpicentroFes + hashtag #EpicentroFest + the names of team members
 
 ## Face Recognition
+
+Run xfacerecognition.py script
 
     root@edison:~/modules/core# time python xfacerecognition.py
     Found 17 faces!
