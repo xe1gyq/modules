@@ -181,7 +181,7 @@ Download a jpeg image with one or more human faces from the internet to your Int
 
 ### Practice
 
-Graph a random number between 0 and 99
+Modify the code to graph a random number between 0 and 99
 
 [Generate random integers between 0 and 9](http://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9)
 
