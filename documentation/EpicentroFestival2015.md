@@ -182,7 +182,7 @@ Continously graph a random number between 0 and 99
     
     root@edison:~/modules/core# cd
     root@edison:~# mosquitto_sub -h test.mosquitto.org -p 1883 -t theiotlearninginitiative/workshop
-    root@edison:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t theiotlearninginitiative/workshop "Hello Mqtt!"
+    root@edison:~# mosquitto_pub -h test.mosquitto.org -p 1883 -t theiotlearninginitiative/workshop -m "Hello Mqtt!"
     root@edison:~# mosquitto_sub -h test.mosquitto.org -t "#" -v
 
 ## Shutdown
