@@ -24,7 +24,7 @@ Install in your Windows host, the Standalone Driver v1.2.1
 - [Intel® Edison Board Software Downloads](https://software.intel.com/en-us/iot/hardware/edison/downloads)
 - [Windows 64-bit Installer](http://downloadmirror.intel.com/25384/eng/w_iot_2015.0.028.exe)
 
-Once installed check in Device Manager, under **Ports (COM & LPT)** which port your Edison has been assigned with the label
+Connect your Intel Edison using both USB cables, nnce installed check in Device Manager, under **Ports (COM & LPT)** which port your Edison has been assigned with the label
 
 - Virtual USB Port (COMxx)
 - USB Serial Port (COMxx)
