@@ -61,7 +61,7 @@ Version 1.7
     edison login: root
     root@edison:~#
 
-Prompt, everything after # is considered a command
+The following line is our prompt, everything after # is considered a command
 
     root@edison:~#
 
