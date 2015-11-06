@@ -28,8 +28,8 @@ Nnce installed, connect your Intel Edison using both USB cables, check in Device
 
 In Windows
 
-    ipconfig /release
-    ipconfig /renew
+    ipconfig/release
+    ipconfig/renew
 
 - USB Serial Port (COMxx)
 
