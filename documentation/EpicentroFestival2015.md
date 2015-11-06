@@ -170,6 +170,7 @@ Continously graph a random number between 0 and 99
 ## Shutdown
 
     root@edison:~# cd
+    root@edison:~# rm -rf modules/
     root@edison:~# poweroff
 
 
