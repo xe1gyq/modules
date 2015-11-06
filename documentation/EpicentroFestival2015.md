@@ -104,7 +104,7 @@ The following line is our command line prompt, everything after # is considered 
 
 ## Credentials
 
-    root@edison:~/modules/core# nano configuration/credentials.config
+    root@edison:~/modules/core# cat configuration/credentials.config
     [wolfram]
     appid = 
     
