@@ -122,7 +122,7 @@ Version 1.7
 
 ### Practice
 
-Modify the code to ask a  different questions to WolframAlpha
+Modify the code to ask a different question to WolframAlpha
 
     root@edison:~/modules/core# nano xwolfram.py
 
