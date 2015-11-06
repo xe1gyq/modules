@@ -122,9 +122,7 @@ Version 1.7
 
 ### Practice
 
-In your browser go to
-
-   www.wolframalpha.com
+In your browser go www.wolframalpha.com and find out about this site
 
 Modify the code to ask a different question to WolframAlpha
 
