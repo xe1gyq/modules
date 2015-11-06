@@ -73,6 +73,7 @@ Version 1.7
     --- google.com ping statistics ---
     2 packets transmitted, 2 packets received, 0% packet loss
     round-trip min/avg/max = 99.709/106.382/113.055 ms
+    root@edison:~# 
 
 
 ## Package Setup
