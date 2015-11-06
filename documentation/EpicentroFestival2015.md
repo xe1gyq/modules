@@ -173,4 +173,3 @@ Continously graph a random number between 0 and 99
     root@edison:~# rm -rf modules/
     root@edison:~# poweroff
 
-
