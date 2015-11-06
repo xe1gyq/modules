@@ -61,7 +61,6 @@ Version 1.7
     edison login: root
     root@edison:~#
 
-
 ## Internet Configuration
 
     root@edison:~# ifconfig usb0 down
