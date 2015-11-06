@@ -134,7 +134,7 @@ Run xwolframpy script
 Modify the code to ask a different question to WolframAlpha
 
     root@edison:~/modules/core# nano xwolfram.py
-       <Modify Quesiton>
+       <Modify Question>
       <CTRL-X to Save>
     root@edison:~/modules/core# python xwolfram.py
 
