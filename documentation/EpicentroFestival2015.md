@@ -184,7 +184,7 @@ Download a jpeg image with one or more human faces from the internet to your Int
     root@edison:~/modules/core/output# cd ..
     root@edison:~/modules/core# python xfacerecognition.py
 
-Intel Edison has a Web Server, copy the jpeg output file to the webserver local path, open the url <edison.ip.address>out.jpeg in a new browser tab 
+Intel Edison has a Web Server, copy the jpeg output file to the webserver local path, open the url <edison.ip.address>/out.jpeg in a new browser tab 
 
     root@edison:~/modules/core# cp output/out.jpeg /usr/lib/edison_config_tools/public/
     root@edison:~/modules/core# ifconfig
