@@ -15,6 +15,8 @@ Please...
 
 ## Host Setup
 
+- do not connect your Itenl Edison yet
+
 ### Windows Based
 
 Install in your Windows host, the Standalone Driver v1.2.1
