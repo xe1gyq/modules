@@ -86,6 +86,8 @@ Version 1.7
     root@edison:~# ls
     modules
     root@edison:~# cd modules/core/
+    root@edison:~/modules/core# git reset --hard
+    root@edison:~/modules/core# git pull
     root@edison:~/modules/core# ls
     LICENSE                svoicerss.sh           xspeechrecognition.py
     README.md              xanswer.py             xtalk.py
