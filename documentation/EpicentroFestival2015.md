@@ -26,7 +26,11 @@ Once installed check in Device Manager, under **Ports (COM & LPT)** which port y
 
 ### Linux Based
 
-if your host is a Linux based box, then you are free to go
+You should have everything ready, type
+
+    $ dmesg
+
+
 
 ## Core Code Repository
 
