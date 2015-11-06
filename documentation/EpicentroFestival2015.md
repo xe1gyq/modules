@@ -172,7 +172,7 @@ Run xfacerecognition.py script
 
 ### Practice
 
-Download a jpeg image with one or more human faces from the internet to your Intel Edison, rename it as in.jpeg and run face recognition script again, the steps are
+Download a jpeg image with one or more human faces from the internet to your Intel Edison, rename it as in.jpeg, run face recognition script again, the steps are
 
     root@edison:~/modules/core# cd output
     root@edison:~/modules/core/output# ls
@@ -183,6 +183,9 @@ Download a jpeg image with one or more human faces from the internet to your Int
     root@edison:~/modules/core/output# mv imagename.weirdname in.jpeg
     root@edison:~/modules/core/output# cd ..
     root@edison:~/modules/core# python xfacerecognition.py
+
+Intel Edison has a Web Server, copy the jpeg output file in webserver path
+
     root@edison:~/modules/core# cp output/out.jpeg /usr/lib/edison_config_tools/public/
     root@edison:~/modules/core# ifconfig
     ...
