@@ -100,7 +100,7 @@ The following line is our command line prompt, everything after # is considered 
     configuration          xlcdrgb.py             xwolfram.py
     documentation          xmqttpub.py
     output                 xplotly.py
-    root@edison:~/modules/core#
+    root@edison:~/modules/core# 
 
 ## Credentials
 
