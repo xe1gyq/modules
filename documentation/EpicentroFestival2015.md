@@ -174,7 +174,7 @@ Download a jpeg image with one or more human faces from the internet to your Int
     root@edison:~/modules/core/output# mv imagename.weirdname in.jpeg
     root@edison:~/modules/core/output# cd ..
     root@edison:~/modules/core# python xfacerecognition.py
-    root@edison:~/modules/core# cp output/out.jpeg /usr/lib/edison_config_tools/public
+    root@edison:~/modules/core# cp output/out.jpeg /usr/lib/edison_config_tools/public/
     root@edison:~/modules/core# ifconfig
     ...
     wlan0     Link encap:Ethernet  HWaddr 78:4b:87:a7:e0:19  
