@@ -20,6 +20,8 @@ Install in your Windows host, the Standalone Driver v1.2.1, if your host is a Li
 - [Intel® Edison Board Software Downloads](https://software.intel.com/en-us/iot/hardware/edison/downloads)
 - [Windows Standalone Driver 1.2.1](http://downloadmirror.intel.com/24909/eng/IntelEdisonDriverSetup1.2.1.exe)
 
+
+
 ## Core Code Repository
 
 - [Core Gitbook](https://xe1gyq.gitbooks.io/core/content/)
