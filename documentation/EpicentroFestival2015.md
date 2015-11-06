@@ -200,7 +200,7 @@ Download a jpeg image with one or more human faces from the internet to your Int
 
 Modify the code to graph a random number between 0 and 99
 
-    root@edison:~/modules/core# nano xtweet.py
+    root@edison:~/modules/core# nano xplotly.py
        <Modify Code>
       <CTRL-X to Save>
     root@edison:~/modules/core# python xtweet.py
