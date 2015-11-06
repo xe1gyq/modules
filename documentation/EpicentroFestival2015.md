@@ -162,6 +162,7 @@ Get a jpeg image with one or more human faces from the internet, rename it as in
     root@edison:~/modules/core/output# cd ..
     root@edison:~/modules/core# python xfacerecognition.py
     root@edison:~/modules/core# cp output/out.jpeg /usr/lib/edison_config_tools/public
+    
 
 ## Plot.Ly
 
