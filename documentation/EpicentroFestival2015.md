@@ -126,6 +126,7 @@ Run xwolframpy script
 
     root@edison:~/modules/core# python xwolfram.py
     Mexico City Distrito Federal Mexico
+    root@edison:~/modules/core# 
 
 [Code xWolfram](https://github.com/xe1gyq/core/blob/master/xwolfram.py)
 
