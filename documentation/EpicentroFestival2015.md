@@ -13,6 +13,10 @@ Please...
 - No Food or Drinks while you are working with the Intel Edison
 - Edison + Arduino Breakout Board on top of anti-static bag
 
+## Host Setup
+
+- https://software.intel.com/en-us/iot/hardware/edison/downloads
+
 ## Core Code Repository
 
 - [Core Gitbook](https://xe1gyq.gitbooks.io/core/content/)
