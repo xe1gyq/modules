@@ -193,7 +193,7 @@ Intel Edison has a Web Server, copy the jpeg output file to the webserver local 
           inet addr:192.168.1.70  Bcast:192.168.1.255  Mask:255.255.255.0
     ...
     Open your browser and go to url:
-    <ip>/out.jpeg
+    <edison.ip.address>/out.jpeg
     192.168.1.70/out.jpeg
 
 ## Plot.Ly
