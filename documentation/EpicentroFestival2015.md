@@ -159,6 +159,7 @@ Modify the code to send 1 tweet mentioning @EpicentroFes + hashtag #EpicentroFes
        <Modify Code>
       <CTRL-X to Save>
     root@edison:~/modules/core# python xtweet.py
+    ...
 
 ## Face Recognition
 
