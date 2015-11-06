@@ -15,7 +15,7 @@ Please...
 
 ## Host Setup
 
-- do not connect your Itenl Edison yet
+- Do not connect your Itenl Edison yet
 
 ### Windows Based
 
