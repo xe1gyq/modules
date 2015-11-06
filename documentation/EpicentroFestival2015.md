@@ -125,7 +125,7 @@ Run xwolframpy script
 
 ### Practice
 
-Now modify the code to ask a different question to WolframAlpha
+modify the code to ask a different question to WolframAlpha
 
     root@edison:~/modules/core# nano xwolfram.py
        <Modify Code>
