@@ -59,6 +59,7 @@ Version 1.7
 
 ## Internet Configuration
 
+    root@edison:~# ifconfig usb0 down
     root@edison:~# configure_edison --wifi
     root@edison:~# ifconfig
     ...
