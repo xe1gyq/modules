@@ -30,7 +30,7 @@ You should have everything ready, type
 
     $ dmesg
 
-
+and find out at the end of the out put stream which tty your Edison has been assigned to, it should be /dev/ttyUSB0
 
 ## Core Code Repository
 
