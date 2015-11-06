@@ -83,19 +83,19 @@ Version 1.7
 
 ## Getting Started
 
-root@edison:~# cd
-root@edison:~# ls
-modules
-root@edison:~# cd modules/core/
-root@edison:~/modules/core# ls
-LICENSE                svoicerss.sh           xspeechrecognition.py
-README.md              xanswer.py             xtalk.py
-SUMMARY.md             xcamera.py             xtweet.py
-__init__.py            xfacerecognition.py    xvoice.py
-configuration          xlcdrgb.py             xwolfram.py
-documentation          xmqttpub.py
-output                 xplotly.py
-root@edison:~/modules/core#
+    root@edison:~# cd
+    root@edison:~# ls
+    modules
+    root@edison:~# cd modules/core/
+    root@edison:~/modules/core# ls
+    LICENSE                svoicerss.sh           xspeechrecognition.py
+    README.md              xanswer.py             xtalk.py
+    SUMMARY.md             xcamera.py             xtweet.py
+    __init__.py            xfacerecognition.py    xvoice.py
+    configuration          xlcdrgb.py             xwolfram.py
+    documentation          xmqttpub.py
+    output                 xplotly.py
+    root@edison:~/modules/core#
 
 ## Package Setup
 
