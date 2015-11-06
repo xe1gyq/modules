@@ -61,6 +61,10 @@ Version 1.7
     edison login: root
     root@edison:~#
 
+Prompt, everything after # is considered a command
+
+    root@edison:~#
+
 ## Internet Configuration
 
     root@edison:~# ifconfig usb0 down
