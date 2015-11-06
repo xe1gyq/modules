@@ -138,6 +138,7 @@ Modify the code to ask a different question to WolframAlpha
        <Modify Question>
       <CTRL-X to Save>
     root@edison:~/modules/core# python xwolfram.py
+    ...
 
 ## Twitter
 
