@@ -26,7 +26,10 @@ Install in your Windows host, the Standalone Driver v1.2.1
 
 Nnce installed, connect your Intel Edison using both USB cables, check in Device Manager, under **Ports (COM & LPT)** which port your Edison has been assigned with the label
 
-ipconfig /release 
+In Windows
+
+ipconfig /release
+ipconfig /renew
 
 - USB Serial Port (COMxx)
 
