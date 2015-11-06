@@ -123,7 +123,7 @@ Version 1.7
 ### Practice
 
 In your browser go www.wolframalpha.com and find out about this site
-Modify the code to ask a different question to WolframAlpha
+Now modify the code to ask a different question to WolframAlpha
 
     root@edison:~/modules/core# nano xwolfram.py
        <Modify Code>
