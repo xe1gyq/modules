@@ -24,7 +24,7 @@ Install in your Windows host, the Standalone Driver v1.2.1
 
 Once installed check in Device Manager, under **Ports (COM & LPT)** which port your Edison has been assigned with the label
 
-- "Virtual USB Port" ()
+- "Virtual USB Port" (COMxx)
 - USB Serial Port (COMxx)
 
 ### Linux Based
