@@ -169,7 +169,7 @@ Get a jpeg image with one or more human faces from the internet, rename it as in
     ...
     Open your browser and go to url:
     <ip>/out.jpeg
-    192.168.1.70/
+    192.168.1.70/out.jpeg
     
 
 ## Plot.Ly
